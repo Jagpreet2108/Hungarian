@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SUPERMAN\\source\\repos\\RollLogin\\RollLogin\\RollLogin.csproj": {}
+    "C:\\Users\\Som\\Desktop\\hung\\RollLogin\\RollLogin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SUPERMAN\\source\\repos\\RollLogin\\RollLogin\\RollLogin.csproj": {
+    "C:\\Users\\Som\\Desktop\\hung\\RollLogin\\RollLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SUPERMAN\\source\\repos\\RollLogin\\RollLogin\\RollLogin.csproj",
+        "projectUniqueName": "C:\\Users\\Som\\Desktop\\hung\\RollLogin\\RollLogin.csproj",
         "projectName": "RollLogin",
-        "projectPath": "C:\\Users\\SUPERMAN\\source\\repos\\RollLogin\\RollLogin\\RollLogin.csproj",
-        "packagesPath": "C:\\Users\\SUPERMAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SUPERMAN\\source\\repos\\RollLogin\\RollLogin\\obj\\",
+        "projectPath": "C:\\Users\\Som\\Desktop\\hung\\RollLogin\\RollLogin.csproj",
+        "packagesPath": "C:\\Users\\Som\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Som\\Desktop\\hung\\RollLogin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SUPERMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Som\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
