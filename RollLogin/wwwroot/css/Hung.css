@@ -1,0 +1,23 @@
+﻿@* For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860 *@ @ {
+    
+}
+.carousel-inner {
+    height: 400px;
+    width: 100%;
+}
+.card {
+    position: relative;
+    display: block;
+    margin-top: 2.0em;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+
+.card-body {
+    position: absolute;
+    height: 5em;
+}
+
+.card-img-top {
+    height: 220px;
+}

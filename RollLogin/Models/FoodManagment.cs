@@ -17,6 +17,11 @@ namespace RollLogin.Models
         public string Fcode { get; set; }
         public string FName { get; set; }
         public float FPrice { get; set; }
-        public int MyProperty { get; set; }
+        public string FDisc { get; set; }
+        public int Quantity { get; set; }
+        public string Atri { get; set; }
+        public DateTime Date { get; set; }
+        public DateTime ODate { get; set; }
+
     }
 }
