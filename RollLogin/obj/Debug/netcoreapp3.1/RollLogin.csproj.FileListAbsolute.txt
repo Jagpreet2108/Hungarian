@@ -663,3 +663,8 @@ C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\staticwebassets\Roll
 C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\RollLogin.dll
 C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\RollLogin.pdb
 C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\RollLogin.genruntimeconfig.cache
+C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Create.cshtml.g.cs
+C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Delete.cshtml.g.cs
+C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Details.cshtml.g.cs
+C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Edit.cshtml.g.cs
+C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Index.cshtml.g.cs

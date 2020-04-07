@@ -1,0 +1,65 @@
+﻿@model RollLogin.Models.FoodManagment
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>FoodManagment</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Fcode" class="control-label"></label>
+                <input asp-for="Fcode" class="form-control" />
+                <span asp-validation-for="Fcode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FName" class="control-label"></label>
+                <input asp-for="FName" class="form-control" />
+                <span asp-validation-for="FName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FPrice" class="control-label"></label>
+                <input asp-for="FPrice" class="form-control" />
+                <span asp-validation-for="FPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FDisc" class="control-label"></label>
+                <input asp-for="FDisc" class="form-control" />
+                <span asp-validation-for="FDisc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Atri" class="control-label"></label>
+                <input asp-for="Atri" class="form-control" />
+                <span asp-validation-for="Atri" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ODate" class="control-label"></label>
+                <input asp-for="ODate" class="form-control" />
+                <span asp-validation-for="ODate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
