@@ -668,3 +668,9 @@ C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodMana
 C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Details.cshtml.g.cs
 C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Edit.cshtml.g.cs
 C:\Users\Som\Desktop\hung\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Index.cshtml.g.cs
+C:\Users\SUPERMAN\source\repos\RollLogin\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Create.cshtml.g.cs
+C:\Users\SUPERMAN\source\repos\RollLogin\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Delete.cshtml.g.cs
+C:\Users\SUPERMAN\source\repos\RollLogin\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Details.cshtml.g.cs
+C:\Users\SUPERMAN\source\repos\RollLogin\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Edit.cshtml.g.cs
+C:\Users\SUPERMAN\source\repos\RollLogin\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\FoodManagments\Index.cshtml.g.cs
+C:\Users\SUPERMAN\source\repos\RollLogin\RollLogin\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
