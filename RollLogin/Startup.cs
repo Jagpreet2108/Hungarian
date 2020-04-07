@@ -12,6 +12,7 @@ using RollLogin.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using RollLogin.Models;
 
 namespace RollLogin
 {
@@ -37,6 +38,8 @@ namespace RollLogin
             services.AddRazorPages();
             services.AddIdentity<IdentityUser, IdentityRole>().AddDefaultUI().AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddMvc();
+            //Feedback services for feedbackcontext
+            //services.AddDbContext<FeedbackContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddAuthorization(options =>
             {
                 options.AddPolicy

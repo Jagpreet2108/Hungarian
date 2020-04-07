@@ -15,5 +15,6 @@ namespace RollLogin.Data
         }
         public DbSet<RollLogin.Models.Emps> Emps { get; set; }
         public DbSet<RollLogin.Models.FoodManagment> FoodManagment { get; set; }
+        public DbSet<RollLogin.Models.Feedback> Feedback { get; set; }
     }
 }
