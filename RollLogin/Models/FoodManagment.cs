@@ -13,7 +13,7 @@ namespace RollLogin.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public string FId { get; set; }
-        [Key]
+        
         public string Fcode { get; set; }
         public string FName { get; set; }
         public float FPrice { get; set; }
