@@ -16,10 +16,15 @@ a.navbar-brand {
     opacity: 0.8;
     width: 100%;
     height: 100%;
+}/*slider image */
+.carousel-item img {
+
+    
+    
 }
 /* Provide sufficient contrast against white background */
 a {
-  color: #0366d6;
+    color: #0366d6;
 }
 
 .btn-primary {
