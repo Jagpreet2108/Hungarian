@@ -8979,11 +8979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jagpreet Kaur\\Desktop\\RollLogin\\RollLogin\\RollLogin.csproj",
+      "projectUniqueName": "C:\\Users\\Jagpreet Kaur\\Desktop\\Hungarian\\RollLogin\\RollLogin.csproj",
       "projectName": "RollLogin",
-      "projectPath": "C:\\Users\\Jagpreet Kaur\\Desktop\\RollLogin\\RollLogin\\RollLogin.csproj",
+      "projectPath": "C:\\Users\\Jagpreet Kaur\\Desktop\\Hungarian\\RollLogin\\RollLogin.csproj",
       "packagesPath": "C:\\Users\\Jagpreet Kaur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jagpreet Kaur\\Desktop\\RollLogin\\RollLogin\\obj\\",
+      "outputPath": "C:\\Users\\Jagpreet Kaur\\Desktop\\Hungarian\\RollLogin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
